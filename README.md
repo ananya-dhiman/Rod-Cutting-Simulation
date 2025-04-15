@@ -45,3 +45,7 @@ The program uses **Dynamic Programming (Bottom-Up)** to solve the rod cutting pr
  Tkinter (for GUI)
 
  Dynamic Programming
+
+ ## Screenshot
+ ![image](https://github.com/user-attachments/assets/7634a9bd-4b6f-44b8-8bd4-5ec6306e0733)
+
